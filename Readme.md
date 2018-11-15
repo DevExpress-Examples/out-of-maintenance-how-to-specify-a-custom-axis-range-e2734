@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SilverlightApplication20/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication20/MainPage.xaml))
+<!-- default file list end -->
 # How to specify a custom axis range
 
 
